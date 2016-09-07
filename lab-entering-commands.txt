@@ -19,17 +19,9 @@ Follow the instructions line-by-line.
 
 
 
-
-
-
-
-
 ==========
 
 1. Open Terminal.  Type:
-
-
-
 
 $ ls<ENTER>
 
@@ -70,53 +62,26 @@ Follow the instructions line-by-line.
 
 1. Open Terminal.  Type:
 
-
-
-
 $ ls<ENTER>
-
-
 
 
 Copy and paste the output of ls below.
 
 ----------
-
 Adlm		Desktop		Library		Music		Things		xgen
 Adobe		Documents	MPLABXProjects	Pictures	isus
 Applications	Downloads	Movies		Public		pymel.log
 
-
-
-
-
-
-
-
 ==========
-
 2a. Type: 
 
-
-
-
 $ ls D<TAB>
-
-
-
 
 What happens?  Describe it below.
 
 ----------
-
 The terminal listed the following:
 Desktop/   Documents/ Downloads/ 
-
-
-
-
-
-
 
 ==========
 
@@ -126,38 +91,18 @@ Desktop/   Documents/ Downloads/
 
 Desktop/   Documents/ Downloads/ 
 
-
-
-
-
-
-
-
 ==========
 
 2c. Now press <ENTER>. Copy and paste the output below.
 
 ----------
-
 ls: D: No such file or directory
-
-
-
-
-
-
-
 
 ==========
 
 3.  Type:
 
-
-
-
 $ ls -l Documents<ENTER>
-
-
 
 
 Copy and paste the first *two lines* of output below.
@@ -168,23 +113,11 @@ total 392
 drwxr-xr-x   5 student  staff     170 Aug 22 14:47 Ableton
 
 
-
-
-
-
-
-
 ==========
 
 4.  Type:
 
-
-
-
 $ ls -a Documents
-
-
-
 
 Copy and paste the first *two lines* of output below.
 
@@ -194,23 +127,12 @@ Copy and paste the first *two lines* of output below.
 ..			Adobe			MATLAB			REAPER Media
 
 
-
-
-
-
-
-
-
 ==========
 
 5.  Type:
 
 
-
-
 <UP><ENTER>
-
-
 
 
 What command was repeated?
@@ -220,34 +142,16 @@ What command was repeated?
 The -a command was repeated.
 
 
-
-
-
-
-
-
 ==========
 
 6.  Type:
 
-
-
-
 <UP><UP><UP><DOWN><ENTER>
-
-
-
 
 What command was repeated?
 
 ----------
-
 The -a Command was repeated.
-
-
-
-
-
 
 
 
@@ -255,33 +159,18 @@ The -a Command was repeated.
 
 7.  Type:
 
-
-
-
 $ ls /Vol<TAB><ENTER>
-
-
 
 
 What is the result of pressing tab?
 
 ----------
-
 A Vol became Volumes/
-
-
-
-
-
-
 
 
 ==========
 
 8.  Type:
-
-
-
 
 $ ls doesnotexist
 
@@ -291,13 +180,7 @@ $ ls doesnotexist
 Copy and paste the output below.
 
 ----------
-
 ls: doesnotexist: No such file or directory
-
-
-
-
-
 
 
 
@@ -306,14 +189,7 @@ ls: doesnotexist: No such file or directory
 9.  What key do I press to go to the previous command?
 
 ----------
-
 <Up>
-
-
-
-
-
-
 
 
 ==========
@@ -321,14 +197,7 @@ ls: doesnotexist: No such file or directory
 10.  Name two flags that we used in this exercise.
 
 ----------
-
 “ls -d” and “ls -a”
-
-
-
-
-
-
 
 
 ==========
@@ -336,14 +205,7 @@ ls: doesnotexist: No such file or directory
 11.  What key do I use to attempt to autocomplete a command or a file name?
 
 ----------
-
 <Tab>
-
-
-
-
-
-
 
 
 ==========
@@ -351,14 +213,7 @@ ls: doesnotexist: No such file or directory
 12.  What was the main command that we used throughout this exercise?
 
 ----------
-
 The “ls” command.
-
-
-
-
-
-
 
 
 ==========
@@ -366,13 +221,7 @@ The “ls” command.
 13.  Name one argument that we passed to the command.
 
 ----------
-
 $
-
-
-
-
-
 
 
 
@@ -380,49 +229,25 @@ $
 
 14.  Type:
 
-
-
-
 $ foo<ENTER>
-
-
-
 
 Copy and paste the output below.
 
 ----------
-
 -bash: foo: command not found
-
-
-
-
-
-
 
 
 ==========
 
 15.  Type:
 
-
-
-
 <UP><ENTER>
-
-
 
 
 Copy and paste the output below.
 
 ----------
-
 -bash: foo: command not found
-
-
-
-
-
 
 
 
@@ -430,18 +255,11 @@ Copy and paste the output below.
 
 16.  In the following line....
 
-
-
-
 $ ls -a Desktop
-
-
-
 
 What is the command, flag, argument, and prompt?
 
 ----------
-
 “ls” is a command
 
 “-a” is a flag
